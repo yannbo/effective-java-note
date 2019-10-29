@@ -16,7 +16,7 @@ public class Item2 {
  *  1. the builder copy the object filed.
  *  2. the builder field set method return this.
  *  3. the object constructor accept builder object.
- *  4. the build method return the above object by the above constructor.
+ *  4. the build method return the object by the above constructor.
  *  5. set the object field value according to the corresponding builder object field.
  *
  * 优点：易于阅读和编写
